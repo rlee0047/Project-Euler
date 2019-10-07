@@ -17,6 +17,7 @@ def main ():
             
             #if mod for 3 or 5 then add to accumilator and reset
             startPoint = startPoint + i
+            
     #prints final total of all multiples of 3 and 5
     print(startPoint)
     
